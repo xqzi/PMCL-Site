@@ -30,7 +30,7 @@
             {
                 "title": "版本隔离",
                 "subtitle": "避免多个游戏版本存档和 Mod 配置冲突的解决方案",
-                "url": "https://pmcl.fun/launcher/isolation.html"
+                "url": "https://www.bilibili.com/read/cv28922862"
             }
         ]
     },
@@ -40,12 +40,12 @@
             {
                 "title": "Authlib-Injector 服务器设置指南",
                 "subtitle": "手动打包整合包后，初次打开动器时直接弹出对应的账号登录页",
-                "url": "https://pmcl.fun/launcher/authlib-injector.html"
+                "url": "https://www.bilibili.com/read/cv28922866"
             },
             {
                 "title": "服务端自动更新整合包制作教程",
                 "subtitle": "服务端自动更新整合包允许启动器根据服主配置强制更新玩家游戏客户端",
-                "url": "https://pmcl.fun/modpack/serverpack.html"
+                "url": "https://www.bilibili.com/read/cv28922870"
             }
         ]
     },
