@@ -49,15 +49,15 @@
         <div
             style="display: flex; margin: 0 80px;justify-content: space-between;align-items: center;padding-bottom: 20px;">
             <div style="display: flex;gap: 10px;">
-                <div style="cursor: pointer;"><img style="width: 40px;" src="./img/logo.png"></div><div style="
+                <div style="cursor: pointer;"><a herf='/'><img style="width: 40px;" src="./img/logo.png"></a></div><div style="
     font-weight: bold;
     font-size: 30px;
-">Play Minecraft! Launcher</div>
+"><a herf='/'>Play Minecraft! Launcher</a></div>
             </div>
             <div style="display: flex;gap: 10px;cursor: pointer;">
 
                 <div style="display: flex;gap: 40px;">
-                    <span class="title" onclick="reload()">首页</span><span class="title"><a
+                    <span class="title"><a herf='/'>首页</a></span><span class="title"><a
                             href="https://github.com/xqzi/PMCL">开源</a></span>
                 </div>
             </div>
@@ -169,11 +169,6 @@
                 header.classList.remove('headerBox');
             }
         });
-
-
-        function reload() {
-            location.reload();
-        }
 
         function download() {
             const userAgent = navigator.userAgent;
